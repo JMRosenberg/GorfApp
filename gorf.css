@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#titleBar {
+    width: 80%;
+    margin-top: 40px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    height: 100px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#linkLeft {
+    width: 37.5%;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 2.5%;
+    text-align: center;
+    height: 100px;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#linkLeft a {
+    color: #FFFFFF;
+}
+
+#linkRight {
+    width: 37.5%;
+    margin-top: 20px;
+    margin-right: 10%;
+    margin-left: 2.5%;
+    text-align: center;
+    height: 100px;
+    float: left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#linkRight a {
+    color: #FFFFFF;
+}
+
+.green {
+    background-color: #00FF00;
+    -moz-box-shadow: 8px 8px 8px 0px #88FF88;
+    -webkit-box-shadow: 8px 8px 8px 0px #88FF88;
+    box-shadow: 8px 8px 8px 0px #88FF88;
+    border-color: #AAFFAA;
+}
+
+.red {
+    background-color: #FF0000;
+    -moz-box-shadow: 8px 8px 8px 0px #FF8888;
+    -webkit-box-shadow: 8px 8px 8px 0px #FF8888;
+    box-shadow: 8px 8px 8px 0px #FF8888;
+    border-color: #FFAAAA;
+}
+
+.blue {
+    background-color: #0000FF;
+    -moz-box-shadow: 8px 8px 8px 0px #8888FF;
+    -webkit-box-shadow: 8px 8px 8px 0px #8888FF;
+    box-shadow: 8px 8px 8px 0px #8888FF;
+    border-color: #AAAAFF;
+}
+
+.purple {
+    background-color: #FF00FF;
+    -moz-box-shadow: 8px 8px 8px 0px #FF88FF;
+    -webkit-box-shadow: 8px 8px 8px 0px #FF88FF;
+    box-shadow: 8px 8px 8px 0px #FF88FF;
+    border-color: #FFAAFF;
+}
+
+.teal {
+    background-color: #00FFFF;
+    -moz-box-shadow: 8px 8px 8px 0px #88FFFF;
+    -webkit-box-shadow: 8px 8px 8px 0px #88FFFF;
+    box-shadow: 8px 8px 8px 0px #88EEEE;
+    border-color: #AAFFFF;
+}
+
+.yellow {
+    background-color: #FFFF00;
+    -moz-box-shadow: 8px 8px 8px 0px #CCCC44;
+    -webkit-box-shadow: 8px 8px 8px 0px #CCCC44;
+    box-shadow: 8px 8px 8px 0px #CCCC44;
+    border-color: #DDDD00;
+    color: #000000;
+}
+
+h1 {
+    font-size: 50px;
+    height: 100px;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+a {
+    font-size: 50px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+div {
+    padding: 0;
+    margin: 0;
+}
+
+#subtitle {
+    font-size: 20px;
+    margin: 0px;
+}
