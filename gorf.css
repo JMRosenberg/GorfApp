@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-#titleBar {
+.titleBar {
     width: 80%;
     margin-top: 40px;
     margin-left: 10%;
@@ -17,7 +17,7 @@ body {
     border-width: 1px;
 }
 
-#linkLeft {
+.linkLeft {
     width: 37.5%;
     margin-top: 20px;
     margin-left: 10%;
@@ -32,11 +32,11 @@ body {
     border-width: 1px;
 }
 
-#linkLeft a {
+.linkLeft a {
     color: #FFFFFF;
 }
 
-#linkRight {
+.linkRight {
     width: 37.5%;
     margin-top: 20px;
     margin-right: 10%;
@@ -51,7 +51,7 @@ body {
     border-width: 1px;
 }
 
-#linkRight a {
+.linkRight a {
     color: #FFFFFF;
 }
 
@@ -125,4 +125,12 @@ div {
 #subtitle {
     font-size: 20px;
     margin: 0px;
+}
+
+#gorfMap {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 40px;
+    height: 500px;
 }
